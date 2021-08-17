@@ -1,1 +1,0 @@
-{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/Users/EMIR  AYDIN/Desktop/demo_project","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"},"/filess":{"type":"rsync","guestpath":"/filess","hostpath":"C:/Users/EMIR  AYDIN/Desktop/demo_project","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
